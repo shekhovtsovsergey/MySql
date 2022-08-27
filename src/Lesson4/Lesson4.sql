@@ -1,4 +1,4 @@
-/*Lesson3*/
+/*Lesson4*/
 
 /*1. Создать VIEW на основе пары любых запросов, из ДЗ к уроку 3.*/
 CREATE VIEW AvarageSalary AS
