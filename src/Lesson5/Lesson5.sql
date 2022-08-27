@@ -52,9 +52,3 @@ SELECT * FROM dept_emp WHERE emp_no = 9999;
 Explain
 SELECT * FROM employees where first_name = 'Sergey';
 
-ALTER TABLE `employees`.`employees` ADD INDEX `ix_first_name` (`first_name` ASC) VISIBLE;
-
-ALTER TABLE `employees`.`employees`;
-ALTER TABLE `employees`.`employees` ALTER INDEX `ix_first_name` INVISIBLE;
-
-
